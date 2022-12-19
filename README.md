@@ -6,6 +6,10 @@ Feature made today: the content will be flexible in different devices, as well a
 
 Basic feature demo showing below
 
-https://user-images.githubusercontent.com/48598761/208353261-b25ba3f8-4c69-4217-996b-73933c23ba56.mp4
 
-now the next is made at least 4 other fun projects to enrich my porfolio website, let's go!
+
+https://user-images.githubusercontent.com/48598761/208353909-bdef0584-efae-4d74-b7e1-6746e40d7872.mp4
+
+
+
+Now the next is made at least 4 other fun projects to enrich my porfolio website, let's go!
