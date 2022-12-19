@@ -5,6 +5,7 @@ Today's update is make a foundation of the personal website including the about 
 Feature made today: the content will be flexible in different devices, as well as curr window total with < 1000 px (which was called responsive)
 
 Basic feature demo showing below
+Also learned commit my self work by using git command "git push"
 
 
 
